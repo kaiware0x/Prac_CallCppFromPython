@@ -1,0 +1,5 @@
+build/
+dist/
+mysolver.egg-info/
+venv/
+CMakeLists.txt.user
